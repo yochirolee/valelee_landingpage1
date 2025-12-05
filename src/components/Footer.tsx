@@ -41,7 +41,7 @@ export function Footer(): React.ReactElement {
                   height="42"
                   className="w-10 h-10"
                 />
-                <span>Valelee</span>
+                <span className="text-2xl font-bold text-[#1A4670] dark:text-gray-100">Valelee</span>
               </Link>
             </div>
 
@@ -76,7 +76,7 @@ export function Footer(): React.ReactElement {
               ))}
             </div>
           </div>
-{/* Follow Us - Comentado temporalmente
+          {/* Follow Us - Comentado temporalmente
           <div className="">
             <div>{t("footer.followUs")}</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
