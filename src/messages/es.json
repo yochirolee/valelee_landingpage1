@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "title": "Tiendas Online, Shopify y Sitios Web en Miami | Valelee LLC",
+    "description": "Creamos tiendas online Shopify, páginas web y landing pages rápidas, optimizadas para SEO y conversiones. Next.js, Tailwind, Express y PostgreSQL. Soporte en Miami y alcance global."
+  },
+  "nav": {
+    "services": "Servicios",
+    "benefits": "Beneficios",
+    "faq": "FAQ",
+    "testimonials": "Testimonios",
+    "followUs": "Síguenos",
+    "startProject": "Iniciar Proyecto"
+  },
+  "hero": {
+    "title": "Impulsamos tu presencia digital con soluciones profesionales",
+    "subtitle": "Creamos páginas web, tiendas online y estrategias de marketing digital diseñadas para hacer crecer tu negocio.",
+    "cta": "Agenda una consulta gratis",
+    "portfolio": "Ver nuestro portfolio",
+    "trustedBy": "Marcas y negocios que confían en nosotros",
+    "customers": "clientes"
+  },
+  "benefits": {
+    "whyChooseUs": "Por qué elegirnos",
+    "mainTitle": "Desarrollo moderno, SEO avanzado y enfoque en resultados reales",
+    "mainDescription": "En Valelee LLC combinamos velocidad, diseño atractivo y estrategias de marketing para ayudarte a crecer en digital. Trabajamos con un stack moderno que garantiza rendimiento, estabilidad y escalabilidad.",
+    "one": {
+      "title": "Impulsa tu negocio con tiendas online y páginas web modernas",
+      "description": "Creamos tiendas Shopify y sitios web con Next.js y TailwindCSS que combinan diseño atractivo, velocidad y rendimiento para maximizar tus ventas y presencia digital.",
+      "bullet1Title": "Rendimiento Optimizado",
+      "bullet1Desc": "Sitios web rápidos, con Core Web Vitals excelentes, imágenes optimizadas y experiencia fluida en cualquier dispositivo.",
+      "bullet2Title": "Diseño Orientado a Conversión",
+      "bullet2Desc": "Estructuras estratégicas, llamadas a la acción efectivas y analítica integrada para aumentar ventas y leads.",
+      "bullet3Title": "Tecnología Escalable",
+      "bullet3Desc": "Desarrollos modulares y documentados que permiten crecer sin límites y adaptarse a futuras necesidades de negocio."
+    },
+    "two": {
+      "title": "Potencia tu marketing digital y aumenta tu visibilidad",
+      "description": "Aplicamos estrategias de SEO, SEM y marketing digital enfocadas en resultados reales, para que tu negocio alcance más clientes y genere más conversiones.",
+      "bullet1Title": "SEO Avanzado",
+      "bullet1Desc": "Optimización técnica y de contenido para mejorar tu posición en buscadores y atraer tráfico orgánico de calidad.",
+      "bullet2Title": "Campañas SEM Efectivas",
+      "bullet2Desc": "Publicidad paga estratégica que maximiza el retorno de inversión y atrae clientes listos para comprar.",
+      "bullet3Title": "Marketing Integral",
+      "bullet3Desc": "Combinamos analítica, email marketing y redes sociales para impulsar tus resultados y medir el éxito de cada acción."
+    }
+  },
+  "services": {
+    "title": "Nuestros",
+    "titleHighlight": "Servicios",
+    "items": [
+      {
+        "title": "Sitios Web con Next.js",
+        "description": "Desarrollo de sitios rápidos, modernos y optimizados para SEO con tecnología Next.js y Tailwind."
+      },
+      {
+        "title": "Tiendas Online en Shopify",
+        "description": "Tiendas Shopify completas: diseño, configuración de pagos, envíos, impuestos y automatizaciones."
+      },
+      {
+        "title": "Backends y APIs con Express",
+        "description": "Desarrollo de APIs seguras con Express y PostgreSQL, ideal para proyectos personalizados y dashboards."
+      },
+      {
+        "title": "Integración de Pagos",
+        "description": "Stripe, BMSPay y PayPal. Integración de pagos con notificaciones, comprobantes y conciliación."
+      },
+      {
+        "title": "Internacionalización EN/ES",
+        "description": "Sitios bilingües profesionales, SEO localizado y soporte para Shopify Markets."
+      },
+      {
+        "title": "SEO Técnico, SEM y Publicidad Digital",
+        "description": "Posicionamiento SEO, campañas de Google Ads y publicidad en Meta para atraer tráfico y generar ventas."
+      },
+      {
+        "title": "Soporte y Mantenimiento",
+        "description": "Actualizaciones mensuales, monitoreo, seguridad y mejoras continuas orientadas a conversión."
+      }
+    ]
+  },
+  "video": {
+    "preTitle": "Mira un video",
+    "title": "Aprende cómo satisfacer tus necesidades",
+    "description": "Esta sección es para destacar un video promocional o demo de tu producto. Los analistas dicen que una landing page con video tiene un 3% más de tasa de conversión."
+  },
+  "testimonials": {
+    "preTitle": "Testimonios",
+    "title": "Lo que dicen nuestros clientes",
+    "description": "La opinión de nuestros clientes refleja nuestro compromiso con la calidad. Cada proyecto es una alianza en la que buscamos resultados reales, crecimiento y una experiencia de trabajo clara, rápida y profesional.",
+    "items": [
+      {
+        "quote": "Un lugar seguro donde puedes tener la mejor experiencia para tu negocio y emprender. Siempre están atentos a llamadas y mensajes! Te ayudan a entender cómo iniciar tu proceso. Los recomiendo!",
+        "highlight": "seguro"
+      },
+      {
+        "quote": "La mejor que he podido contactar, excelente servicio, precios y disponibilidad la recomiendo 100%"
+      },
+      {
+        "quote": "Valelee LLC hizo mi página web y quedó increíble. El diseño es moderno, rápido y exactamente lo que necesitaba para mi negocio. Súper recomendada para cualquier emprendedor que quiera una presencia profesional en internet.",
+        "highlight": "increíble"
+      }
+    ]
+  },
+  "faq": {
+    "preTitle": "FAQ",
+    "title": "Preguntas Frecuentes sobre nuestros servicios",
+    "description": "Conoce un poco más sobre nuestros servicios de desarrollo web y tiendas online.",
+    "items": [
+      {
+        "question": "¿Cuánto tarda un proyecto web o Shopify?",
+        "answer": "Sitios simples: 2–4 semanas. Tiendas Shopify o desarrollos a medida: 3–6 semanas según el alcance."
+      },
+      {
+        "question": "¿Pueden crear sitios bilingües?",
+        "answer": "Sí. Implementamos EN/ES, SEO localizado, traducciones estructuradas e internacionalización completa."
+      },
+      {
+        "question": "¿Configuran pagos, envíos e impuestos?",
+        "answer": "Sí. Trabajamos con Stripe, BMSPay, PayPal, reglas de envío y configuración fiscal según tu región."
+      },
+      {
+        "question": "¿Cómo se manejan los pagos del proyecto?",
+        "answer": "Generalmente 50% al inicio y 50% al entregar. También ofrecemos pagos por hitos según el proyecto."
+      },
+      {
+        "question": "¿Ofrecen mantenimiento continuo?",
+        "answer": "Sí. Planes mensuales con optimización, actualizaciones, seguridad y soporte técnico."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para impulsar tu presencia digital?",
+    "description": "No esperes más para tener una tienda online moderna. Atrae más clientes y deja que tu negocio crezca.",
+    "button": "Agenda tu consulta gratuita"
+  },
+  "footer": {
+    "description": "Desarrollo web, tiendas Shopify, SEO y marketing digital con tecnología moderna desde Miami, FL.",
+    "followUs": "Síguenos",
+    "copyright": "Desarrollado por",
+    "rights": "Todos los derechos reservados.",
+    "terms": "Términos",
+    "privacy": "Privacidad",
+    "legal": "Legal"
+  },
+  "legal": {
+    "terms": {
+      "title": "Términos y Condiciones",
+      "intro": "Bienvenido a Valelee LLC. Al utilizar nuestro sitio web y servicios, aceptas cumplir con los presentes Términos y Condiciones.",
+      "servicesTitle": "Servicios",
+      "servicesText": "Ofrecemos servicios de desarrollo web, tiendas online y marketing digital. Nos esforzamos por brindar soluciones profesionales, pero no garantizamos resultados específicos.",
+      "intellectualTitle": "Propiedad intelectual",
+      "intellectualText": "Todo el contenido, imágenes, gráficos y textos de este sitio son propiedad de Valelee LLC y no pueden ser copiados ni reproducidos sin autorización.",
+      "modificationsTitle": "Modificaciones",
+      "modificationsText": "Valelee LLC se reserva el derecho de actualizar o modificar estos Términos en cualquier momento.",
+      "responsibilityTitle": "Responsabilidad",
+      "responsibilityText": "El uso de nuestros servicios es bajo tu propia responsabilidad. Valelee LLC no se hace responsable de daños o resultados derivados del uso de nuestros servicios."
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "intro": "En Valelee LLC nos tomamos muy en serio la privacidad de nuestros usuarios. Esta política explica cómo recopilamos, usamos y protegemos tu información.",
+      "collectedTitle": "Información recopilada",
+      "collectedText": "Recopilamos información como nombre, correo electrónico y datos enviados a través de formularios de contacto.",
+      "usageTitle": "Uso de la información",
+      "usageText": "La información se utiliza únicamente para responder a consultas, brindar nuestros servicios y mejorar la experiencia en el sitio.",
+      "sharingTitle": "Compartir datos",
+      "sharingText": "No compartimos tus datos con terceros, excepto proveedores confiables (por ejemplo, hosting o analíticas).",
+      "cookiesTitle": "Cookies",
+      "cookiesText": "Este sitio puede usar cookies para mejorar el rendimiento y analizar la navegación.",
+      "rightsTitle": "Derechos del usuario",
+      "rightsText": "Puedes solicitar la eliminación o corrección de tus datos personales enviando un correo a contacto@valelee.com."
+    },
+    "notice": {
+      "title": "Aviso Legal",
+      "intro": "Este sitio web es operado por Valelee LLC, con sede en Miami, FL. La información proporcionada tiene fines únicamente informativos.",
+      "disclaimerTitle": "Exención de responsabilidad",
+      "disclaimerText": "Aunque se hacen esfuerzos para mantener la información precisa y actualizada, Valelee LLC no se responsabiliza por errores, omisiones o resultados derivados del uso del sitio.",
+      "intellectualTitle": "Propiedad intelectual",
+      "intellectualText": "Todo el contenido, imágenes y materiales digitales son propiedad de Valelee LLC. No pueden ser utilizados sin autorización.",
+      "usageTitle": "Uso del sitio",
+      "usageText": "El uso del sitio es bajo tu propia responsabilidad. Al navegar en este sitio, aceptas las condiciones aquí expuestas."
+    }
+  }
+}
+

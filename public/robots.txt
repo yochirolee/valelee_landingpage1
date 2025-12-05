@@ -1,0 +1,21 @@
+# Robots.txt para Valelee LLC
+# https://www.valelee.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.valelee.com/sitemap.xml
+
+# Bloquear archivos innecesarios
+Disallow: /api/
+Disallow: /_next/static/
+Disallow: /*.json$
+
+# Permitir rastreadores de redes sociales
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+

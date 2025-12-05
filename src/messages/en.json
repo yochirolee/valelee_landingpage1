@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "title": "Online Stores, Shopify & Websites in Miami | Valelee LLC",
+    "description": "We create Shopify online stores, websites and landing pages optimized for SEO and conversions. Next.js, Tailwind, Express and PostgreSQL. Support in Miami with global reach."
+  },
+  "nav": {
+    "services": "Services",
+    "benefits": "Benefits",
+    "faq": "FAQ",
+    "testimonials": "Testimonials",
+    "followUs": "Follow Us",
+    "startProject": "Start Project"
+  },
+  "hero": {
+    "title": "We boost your digital presence with professional solutions",
+    "subtitle": "We create websites, online stores and digital marketing strategies designed to grow your business.",
+    "cta": "Schedule a free consultation",
+    "portfolio": "View our portfolio",
+    "trustedBy": "Brands and businesses that trust us",
+    "customers": "customers"
+  },
+  "benefits": {
+    "whyChooseUs": "Why choose us",
+    "mainTitle": "Modern development, advanced SEO and focus on real results",
+    "mainDescription": "At Valelee LLC we combine speed, attractive design and marketing strategies to help you grow digitally. We work with a modern stack that guarantees performance, stability and scalability.",
+    "one": {
+      "title": "Boost your business with modern online stores and websites",
+      "description": "We create Shopify stores and websites with Next.js and TailwindCSS that combine attractive design, speed and performance to maximize your sales and digital presence.",
+      "bullet1Title": "Optimized Performance",
+      "bullet1Desc": "Fast websites with excellent Core Web Vitals, optimized images and smooth experience on any device.",
+      "bullet2Title": "Conversion-Oriented Design",
+      "bullet2Desc": "Strategic structures, effective calls to action and integrated analytics to increase sales and leads.",
+      "bullet3Title": "Scalable Technology",
+      "bullet3Desc": "Modular and documented developments that allow unlimited growth and adaptation to future business needs."
+    },
+    "two": {
+      "title": "Power up your digital marketing and increase your visibility",
+      "description": "We apply SEO, SEM and digital marketing strategies focused on real results, so your business reaches more customers and generates more conversions.",
+      "bullet1Title": "Advanced SEO",
+      "bullet1Desc": "Technical and content optimization to improve your search engine ranking and attract quality organic traffic.",
+      "bullet2Title": "Effective SEM Campaigns",
+      "bullet2Desc": "Strategic paid advertising that maximizes ROI and attracts customers ready to buy.",
+      "bullet3Title": "Comprehensive Marketing",
+      "bullet3Desc": "We combine analytics, email marketing and social media to boost your results and measure the success of each action."
+    }
+  },
+  "services": {
+    "title": "Our",
+    "titleHighlight": "Services",
+    "items": [
+      {
+        "title": "Websites with Next.js",
+        "description": "Development of fast, modern websites optimized for SEO with Next.js and Tailwind technology."
+      },
+      {
+        "title": "Online Stores on Shopify",
+        "description": "Complete Shopify stores: design, payment configuration, shipping, taxes and automations."
+      },
+      {
+        "title": "Backends and APIs with Express",
+        "description": "Development of secure APIs with Express and PostgreSQL, ideal for custom projects and dashboards."
+      },
+      {
+        "title": "Payment Integration",
+        "description": "Stripe, BMSPay and PayPal. Payment integration with notifications, receipts and reconciliation."
+      },
+      {
+        "title": "EN/ES Internationalization",
+        "description": "Professional bilingual sites, localized SEO and support for Shopify Markets."
+      },
+      {
+        "title": "Technical SEO, SEM & Digital Advertising",
+        "description": "SEO positioning, Google Ads campaigns and Meta advertising to attract traffic and generate sales."
+      },
+      {
+        "title": "Support and Maintenance",
+        "description": "Monthly updates, monitoring, security and continuous improvements focused on conversion."
+      }
+    ]
+  },
+  "video": {
+    "preTitle": "Watch a video",
+    "title": "Learn how to fulfill your needs",
+    "description": "This section is to highlight a promo or demo video of your product. Analysts say a landing page with video has 3% more conversion rate."
+  },
+  "testimonials": {
+    "preTitle": "Testimonials",
+    "title": "What our clients say",
+    "description": "Our clients' opinions reflect our commitment to quality. Each project is a partnership where we seek real results, growth and a clear, fast and professional work experience.",
+    "items": [
+      {
+        "quote": "A safe place where you can have the best experience for your business and entrepreneurship. They are always attentive to calls and messages! They help you understand how to start your process. I recommend them!",
+        "highlight": "safe"
+      },
+      {
+        "quote": "The best I've been able to contact, excellent service, prices and availability. I recommend them 100%"
+      },
+      {
+        "quote": "Valelee LLC made my website and it turned out amazing. The design is modern, fast and exactly what I needed for my business. Highly recommended for any entrepreneur who wants a professional online presence.",
+        "highlight": "amazing"
+      }
+    ]
+  },
+  "faq": {
+    "preTitle": "FAQ",
+    "title": "Frequently Asked Questions about our services",
+    "description": "Learn more about our web development and online store services.",
+    "items": [
+      {
+        "question": "How long does a web or Shopify project take?",
+        "answer": "Simple sites: 2–4 weeks. Shopify stores or custom developments: 3–6 weeks depending on scope."
+      },
+      {
+        "question": "Can you create bilingual sites?",
+        "answer": "Yes. We implement EN/ES, localized SEO, structured translations and complete internationalization."
+      },
+      {
+        "question": "Do you configure payments, shipping and taxes?",
+        "answer": "Yes. We work with Stripe, BMSPay, PayPal, shipping rules and tax configuration according to your region."
+      },
+      {
+        "question": "How are project payments handled?",
+        "answer": "Generally 50% at start and 50% on delivery. We also offer milestone payments depending on the project."
+      },
+      {
+        "question": "Do you offer ongoing maintenance?",
+        "answer": "Yes. Monthly plans with optimization, updates, security and technical support."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to boost your digital presence?",
+    "description": "Don't wait any longer to have a modern online store. Attract more customers and let your business grow.",
+    "button": "Schedule your free consultation"
+  },
+  "footer": {
+    "description": "Web development, Shopify stores, SEO and digital marketing with modern technology from Miami, FL.",
+    "followUs": "Follow us",
+    "copyright": "Developed by",
+    "rights": "All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "legal": "Legal"
+  },
+  "legal": {
+    "terms": {
+      "title": "Terms and Conditions",
+      "intro": "Welcome to Valelee LLC. By using our website and services, you agree to comply with these Terms and Conditions.",
+      "servicesTitle": "Services",
+      "servicesText": "We offer web development, online stores and digital marketing services. We strive to provide professional solutions, but we do not guarantee specific results.",
+      "intellectualTitle": "Intellectual Property",
+      "intellectualText": "All content, images, graphics and texts on this site are property of Valelee LLC and cannot be copied or reproduced without authorization.",
+      "modificationsTitle": "Modifications",
+      "modificationsText": "Valelee LLC reserves the right to update or modify these Terms at any time.",
+      "responsibilityTitle": "Liability",
+      "responsibilityText": "Use of our services is at your own risk. Valelee LLC is not responsible for damages or results derived from the use of our services."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "At Valelee LLC we take our users' privacy very seriously. This policy explains how we collect, use and protect your information.",
+      "collectedTitle": "Information Collected",
+      "collectedText": "We collect information such as name, email and data submitted through contact forms.",
+      "usageTitle": "Use of Information",
+      "usageText": "Information is used solely to respond to inquiries, provide our services and improve the site experience.",
+      "sharingTitle": "Data Sharing",
+      "sharingText": "We do not share your data with third parties, except trusted providers (e.g., hosting or analytics).",
+      "cookiesTitle": "Cookies",
+      "cookiesText": "This site may use cookies to improve performance and analyze navigation.",
+      "rightsTitle": "User Rights",
+      "rightsText": "You can request deletion or correction of your personal data by sending an email to contacto@valelee.com."
+    },
+    "notice": {
+      "title": "Legal Notice",
+      "intro": "This website is operated by Valelee LLC, based in Miami, FL. The information provided is for informational purposes only.",
+      "disclaimerTitle": "Disclaimer",
+      "disclaimerText": "Although efforts are made to keep information accurate and up to date, Valelee LLC is not responsible for errors, omissions or results derived from the use of the site.",
+      "intellectualTitle": "Intellectual Property",
+      "intellectualText": "All content, images and digital materials are property of Valelee LLC. They cannot be used without authorization.",
+      "usageTitle": "Site Usage",
+      "usageText": "Use of the site is at your own risk. By browsing this site, you accept the conditions stated here."
+    }
+  }
+}
+
