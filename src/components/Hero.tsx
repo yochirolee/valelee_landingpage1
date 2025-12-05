@@ -113,8 +113,8 @@ export const Hero = (): React.ReactElement => {
                 <Image
                   src="/img/rapidviaservices.png"
                   alt="Rapidviaservices"
-                  width={110}
-                  height={23}
+                  width={100}
+                  height={8}
                 />
               </a>
             </div>

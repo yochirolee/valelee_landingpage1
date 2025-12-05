@@ -12,7 +12,7 @@ import userThreeImg from "../../public/img/user3.jpg";
 const users = [
   { image: userOneImg, name: "Marlen Martin", title: "HennaMiamiByMarlenMartin" },
   { image: userTwoImg, name: "Dayana Rodriguez", title: "Daxia Clean Services" },
-  { image: userThreeImg, name: "Orlen Escalona", title: "Rapidviaservices" },
+  { image: userThreeImg, name: "Carlos Cruz", title: "Emprendedor" },
 ];
 
 export const Testimonials = (): React.ReactElement => {

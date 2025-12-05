@@ -21,7 +21,7 @@ export const Navbar = (): React.ReactElement => {
 
   return (
     <div className="w-full">
-      <nav className="container relative flex flex-wrap items-center justify-between p-4 md:p-8 mx-auto lg:justify-between xl:px-1">
+      <nav className="container relative flex flex-wrap items-center justify-between p-2 md:p-8 mx-auto lg:justify-between xl:px-1">
         {/* Logo  */}
         <Link href={`/${locale}`}>
           <span className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
