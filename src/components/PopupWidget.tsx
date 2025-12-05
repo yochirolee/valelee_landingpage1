@@ -118,7 +118,7 @@ export function PopupWidget() {
                   {!isSubmitSuccessful && (
                     <form onSubmit={handleSubmit(onSubmit)} noValidate>
                       <input type="hidden" value="191b5b4b-6d26-46cf-8258-aa0084ac1806" {...register("apikey")} />
-                      <input type="hidden" value={`${userName} envió un mensaje desde Valelee LLC`} {...register("subject")} />
+                      <input type="hidden" value={`${userName} envió un mensaje desde el formulario de contacto de Valelee LLC`} {...register("subject")} />
                       <input type="hidden" value="Valelee LLC" {...register("from_name")} />
                       <input type="checkbox" className="hidden" style={{ display: "none" }} {...register("botcheck")}></input>
 
