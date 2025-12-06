@@ -53,7 +53,7 @@ export default function Home({ params }: HomeProps): React.ReactElement {
               icon: "cursor",
             },
           ]}
-          imageSrc="/img/benefit1.jpg"
+          imageSrc="/img/hero3.png"
         />
         <Benefits
           imgPos="right"
@@ -76,7 +76,7 @@ export default function Home({ params }: HomeProps): React.ReactElement {
               icon: "sun",
             },
           ]}
-          imageSrc="/img/working.jpg"
+          imageSrc="/img/benefit2.png"
         />
 
         <div id="services">

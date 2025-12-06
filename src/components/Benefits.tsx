@@ -54,8 +54,8 @@ export const Benefits = (props: Readonly<BenefitsProps>): React.ReactElement => 
         <div>
           <Image
             src={imageSrc}
-            width={521}
-            height={521}
+            width={700}
+            height={800}
             alt="Benefits"
             className={"object-cover rounded-lg"}
           />
