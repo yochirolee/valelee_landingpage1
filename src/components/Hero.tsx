@@ -23,7 +23,7 @@ export const Hero = (): React.ReactElement => {
             <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
               <a
                 href="tel:+17864509223"
-                className="px-8 py-4 text-lg font-medium text-center text-white bg-[#1A4670] rounded-md"
+                className="px-8 py-4 text-lg font-medium text-center mb-3 text-white bg-[#1A4670] rounded-md"
               >
                 {t("cta")}
               </a>
